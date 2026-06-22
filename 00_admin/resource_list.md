@@ -1,4 +1,4 @@
-\# Resource List
+# Resource List
 
 
 
@@ -6,183 +6,183 @@ Use this page to track what resources are actually useful.
 
 
 
-\---
+---
 
 
 
-\# Core Learning Resources
+# Core Learning Resources
 
 
 
-\## Textbooks / Books
+## Textbooks / Books
 
-\### Astronomy / Astrophysics
+### Astronomy / Astrophysics
 
-\- Title:
+- Title:
 
-\- Author:
+- Author:
 
-\- What it’s good for:
+- What it’s good for:
 
-\- Difficulty:
+- Difficulty:
 
-\- Status:
+- Status:
 
 
 
 Example:
 
-\- Title: OpenStax Astronomy
+- Title: OpenStax Astronomy
 
-\- Author: OpenStax
+- Author: OpenStax
 
-\- What it’s good for: broad intro to astronomy concepts
+- What it’s good for: broad intro to astronomy concepts
 
-\- Difficulty: beginner
+- Difficulty: beginner
 
-\- Status: using for foundation
+- Status: using for foundation
 
 
 
-\---
+---
 
 
 
-\## Courses / Lectures
+## Courses / Lectures
 
-\- Name: 
+- Name: 
 
-\- Platform: 
+- Platform: 
 
-\- Link:
+- Link:
 
-\- Best topics:
+- Best topics:
 
-\- Notes:
+- Notes:
 
 
 
-\---
+---
 
 
 
-\## YouTube / Video Resources
+## YouTube / Video Resources
 
-\- Channel / Playlist:
+- Channel / Playlist:
 
-\- Best for:
+- Best for:
 
-\- Notes:
+- Notes:
 
 
 
-\---
+---
 
 
 
-\## Coding / Data Resources
+## Coding / Data Resources
 
-\- Resource:
+- Resource:
 
-\- What it teaches:
+- What it teaches:
 
-\- Notes:
+- Notes:
 
 
 
-\---
+---
 
 
 
-\# Useful Topic-Specific Resources
+# Useful Topic-Specific Resources
 
 
 
-\## Orbital Mechanics
+## Orbital Mechanics
 
-\-
+-
 
-\-
+-
 
-\-
+-
 
 
 
-\## Light / Spectra / Telescopes
+## Light / Spectra / Telescopes
 
-\-
+-
 
-\-
+-
 
-\-
+-
 
 
 
-\## Stars / Blackbody Radiation
+## Stars / Blackbody Radiation
 
-\-
+-
 
-\-
+-
 
-\-
+-
 
 
 
-\## Black Holes / Relativity Intro
+## Black Holes / Relativity Intro
 
-\-
+-
 
-\-
+-
 
-\-
+-
 
 
 
-\## Data / Visualization
+## Data / Visualization
 
-\-
+-
 
-\-
+-
 
-\-
+-
 
 
 
-\---
+---
 
 
 
-\# Resources I Actually Liked
+# Resources I Actually Liked
 
 Use this section after trying things.
 
 
 
-\## Great
+## Great
 
-\-
+-
 
-\-
+-
 
-\-
-
-
-
-\## Just okay
-
-\-
-
-\-
-
-\-
+-
 
 
 
-\## Not useful for me
+## Just okay
 
-\-
+-
 
-\-
+-
 
-\-
+-
+
+
+
+## Not useful for me
+
+-
+
+-
+
+-
 
