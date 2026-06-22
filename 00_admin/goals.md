@@ -119,4 +119,3 @@ Become genuinely strong in astronomy/astrophysics concepts and build projects th
 * To better understand the universe
 * Build skills for future profession
 * Curiosity
-
