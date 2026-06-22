@@ -1,4 +1,4 @@
-\# Mini Projects
+# Mini Projects
 
 
 
@@ -6,45 +6,45 @@ This folder is for small 1-day to 1-week projects that help me practice astronom
 
 
 
-\## Rules for a mini project
+## Rules for a mini project
 
 A mini project should:
 
-\- answer one question
+- answer one question
 
-\- be small enough to finish quickly
+- be small enough to finish quickly
 
-\- produce one useful output (graph, short writeup, script, calculation, etc.)
-
-
-
-\## Good mini project examples
-
-\- gravity calculator
-
-\- orbital period calculator
-
-\- moon phase explainer
-
-\- HR diagram practice
-
-\- exoplanet dataset graph
-
-\- redshift toy model
-
-\- comparing planet densities
+- produce one useful output (graph, short writeup, script, calculation, etc.)
 
 
 
-\## Goal
+## Good mini project examples
+
+- gravity calculator
+
+- orbital period calculator
+
+- moon phase explainer
+
+- HR diagram practice
+
+- exoplanet dataset graph
+
+- redshift toy model
+
+- comparing planet densities
+
+
+
+## Goal
 
 Use mini projects to:
 
-\- practice coding
+- practice coding
 
-\- reinforce concepts
+- reinforce concepts
 
-\- create portfolio pieces
+- create portfolio pieces
 
-\- test ideas before turning them into larger projects
+- test ideas before turning them into larger projects
 
