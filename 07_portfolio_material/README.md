@@ -31,4 +31,3 @@ Turn raw learning into things I can actually show:
 \- college application activity descriptions
 
 \- essays / project writeups
-
