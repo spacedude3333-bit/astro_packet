@@ -1,4 +1,4 @@
-\# Formula Sheet
+# Formula Sheet
 
 
 
@@ -8,15 +8,15 @@ Keep it short and clean.
 
 
 
-\---
+---
 
 
 
-\# Gravity
+# Gravity
 
 
 
-\## Newton’s Law of Gravitation
+## Newton’s Law of Gravitation
 
 F = G(m1m2 / r^2)
 
@@ -24,59 +24,59 @@ F = G(m1m2 / r^2)
 
 Meaning:
 
-\- gravitational force between two masses
+- gravitational force between two masses
 
 
 
 Variables:
 
-\- F = force
+- F = force
 
-\- G = gravitational constant
+- G = gravitational constant
 
-\- m1, m2 = masses
+- m1, m2 = masses
 
-\- r = distance between centers
+- r = distance between centers
 
 
 
 Notes:
 
-\- inverse-square law
+- inverse-square law
 
-\- larger r means much weaker force
-
-
-
-\---
+- larger r means much weaker force
 
 
 
-\# Circular Motion
+---
 
 
 
-\## Centripetal acceleration
+# Circular Motion
+
+
+
+## Centripetal acceleration
 
 a = v^2 / r
 
 
 
-\## Centripetal force
+## Centripetal force
 
 F = mv^2 / r
 
 
 
-\---
+---
 
 
 
-\# Orbital Motion
+# Orbital Motion
 
 
 
-\## Circular orbital speed
+## Circular orbital speed
 
 v = sqrt(GM / r)
 
@@ -84,11 +84,11 @@ v = sqrt(GM / r)
 
 Meaning:
 
-\- approximate speed for circular orbit around mass M
+- approximate speed for circular orbit around mass M
 
 
 
-\## Escape velocity
+## Escape velocity
 
 v = sqrt(2GM / r)
 
@@ -96,19 +96,19 @@ v = sqrt(2GM / r)
 
 Meaning:
 
-\- minimum speed needed to escape gravity without more propulsion
+- minimum speed needed to escape gravity without more propulsion
 
 
 
-\---
+---
 
 
 
-\# Radiation / Stars
+# Radiation / Stars
 
 
 
-\## Wien’s Law
+## Wien’s Law
 
 lambda max = b / T
 
@@ -116,11 +116,11 @@ lambda max = b / T
 
 Meaning:
 
-\- hotter objects peak at shorter wavelengths
+- hotter objects peak at shorter wavelengths
 
 
 
-\## Stefan–Boltzmann Law
+## Stefan–Boltzmann Law
 
 L = 4πR^2σT^4
 
@@ -128,21 +128,21 @@ L = 4πR^2σT^4
 
 Meaning:
 
-\- luminosity depends on radius and temperature
+- luminosity depends on radius and temperature
 
 
 
-\---
+---
 
 
 
-\# Notes
+# Notes
 
 Whenever I add a formula, also add:
 
-1\. what it means physically
+1. what it means physically
 
-2\. what each variable means
+2. what each variable means
 
-3\. one example of when I’d use it
+3. one example of when I’d use it
 
