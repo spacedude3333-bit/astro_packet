@@ -1,52 +1,52 @@
-\# Mini Project Ideas
+# Mini Project Ideas
 
 
 
-\## Orbital Mechanics
+## Orbital Mechanics
 
-\- Build a circular orbital speed calculator
+- Build a circular orbital speed calculator
 
-\- Compare escape velocity for planets
+- Compare escape velocity for planets
 
-\- Plot orbital period vs orbital radius for simplified systems
-
-
-
-\## Solar System
-
-\- Compare planet densities
-
-\- Compare gravity on different planets
-
-\- Make a chart of planet temperature / radius / orbital period
+- Plot orbital period vs orbital radius for simplified systems
 
 
 
-\## Stars
+## Solar System
 
-\- Plot simple blackbody peak wavelength comparisons
+- Compare planet densities
 
-\- Build a luminosity calculator using radius + temperature
+- Compare gravity on different planets
 
-\- Make a “star color vs temperature” reference chart
-
-
-
-\## Data / Coding
-
-\- Load a CSV of exoplanet data and graph one variable against another
-
-\- Make a scatter plot of planet mass vs orbital period
-
-\- Practice reading and cleaning simple astronomy datasets
+- Make a chart of planet temperature / radius / orbital period
 
 
 
-\## Black Holes / Advanced
+## Stars
 
-\- Schwarzschild radius calculator
+- Plot simple blackbody peak wavelength comparisons
 
-\- Escape velocity vs radius graph
+- Build a luminosity calculator using radius + temperature
 
-\- Compare compact object densities
+- Make a “star color vs temperature” reference chart
+
+
+
+## Data / Coding
+
+- Load a CSV of exoplanet data and graph one variable against another
+
+- Make a scatter plot of planet mass vs orbital period
+
+- Practice reading and cleaning simple astronomy datasets
+
+
+
+## Black Holes / Advanced
+
+- Schwarzschild radius calculator
+
+- Escape velocity vs radius graph
+
+- Compare compact object densities
 
