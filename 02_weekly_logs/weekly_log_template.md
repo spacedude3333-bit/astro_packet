@@ -1,114 +1,114 @@
-\# Weekly Log Template
+# Weekly Log Template
 
 
 
-\## Week:
+## Week:
 
-\## Dates:
+## Dates:
 
 
 
-\---
+---
 
 
 
-\# 1. What I Studied
+# 1. What I Studied
 
-\- 
+- 
 
-\- 
+- 
 
-\- 
+- 
 
 
 
-\# 2. Main Concepts Learned
+# 2. Main Concepts Learned
 
-\- 
+- 
 
-\- 
+- 
 
-\- 
+- 
 
 
 
-\# 3. What I Built / Practiced
+# 3. What I Built / Practiced
 
-\- 
+- 
 
-\- 
+- 
 
-\- 
+- 
 
 
 
-\# 4. Problems I Solved
+# 4. Problems I Solved
 
-\- 
+- 
 
-\- 
+- 
 
-\- 
+- 
 
 
 
-\# 5. What Confused Me
+# 5. What Confused Me
 
-\- 
+- 
 
-\- 
+- 
 
-\- 
+- 
 
 
 
-\# 6. What I Need to Review
+# 6. What I Need to Review
 
-\- 
+- 
 
-\- 
+- 
 
-\- 
+- 
 
 
 
-\# 7. Best Thing I Learned This Week
+# 7. Best Thing I Learned This Week
 
-\- 
+- 
 
 
 
-\# 8. Project Progress
+# 8. Project Progress
 
-\## Orbit project
+## Orbit project
 
-\- 
+- 
 
 
 
-\## Blackbody / stars project
+## Blackbody / stars project
 
-\- 
+- 
 
 
 
-\## Black hole / advanced topic project
+## Black hole / advanced topic project
 
-\- 
+- 
 
 
 
-\# 9. Next Week Plan
+# 9. Next Week Plan
 
-\- 
+- 
 
-\- 
+- 
 
-\- 
+- 
 
 
 
-\# 10. Effort / Focus Check
+# 10. Effort / Focus Check
 
 Hours studied:
 
