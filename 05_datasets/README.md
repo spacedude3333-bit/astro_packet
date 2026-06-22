@@ -1,4 +1,4 @@
-\# Datasets Folder
+# Datasets Folder
 
 
 
@@ -6,39 +6,39 @@ Put all raw or cleaned datasets here.
 
 
 
-\## Examples
+## Examples
 
-\- exoplanet data CSV files
+- exoplanet data CSV files
 
-\- stellar temperature data
+- stellar temperature data
 
-\- luminosity / radius tables
+- luminosity / radius tables
 
-\- notes about where the data came from
+- notes about where the data came from
 
 
 
-\## Good habit
+## Good habit
 
 For each dataset, record:
 
-\- source
+- source
 
-\- date downloaded
+- date downloaded
 
-\- what the columns mean
+- what the columns mean
 
-\- whether I cleaned or modified it
+- whether I cleaned or modified it
 
 
 
-\## Suggested naming
+## Suggested naming
 
-dataset\_name\_source\_date.csv
+dataset_name_source_date.csv
 
 
 
 Example:
 
-exoplanets\_nasa\_2026-06-21.csv
+exoplanets_nasa_2026-06-21.csv
 
