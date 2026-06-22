@@ -1,4 +1,4 @@
-\# Question Bank
+# Question Bank
 
 
 
@@ -8,57 +8,57 @@ If something confuses you, put it here immediately.
 
 
 
-\---
+---
 
 
 
-\# Current Questions
+# Current Questions
 
 
 
-\## Orbits / Gravity
+## Orbits / Gravity
 
-\- Why do elliptical orbits have changing speed?
+- Why do elliptical orbits have changing speed?
 
-\- How do you derive circular orbital speed from gravity + centripetal force?
+- How do you derive circular orbital speed from gravity + centripetal force?
 
-\- What is the physical meaning of escape velocity?
-
-
-
-\## Light / Stars
-
-\- Why do hotter stars peak at shorter wavelengths?
-
-\- What exactly does luminosity measure?
-
-\- How do astronomers estimate star temperatures from spectra?
+- What is the physical meaning of escape velocity?
 
 
 
-\## Black Holes
+## Light / Stars
 
-\- What is the Schwarzschild radius physically telling us?
+- Why do hotter stars peak at shorter wavelengths?
 
-\- What is an event horizon in simple terms?
+- What exactly does luminosity measure?
 
-\- How close can stable orbits exist near a black hole?
-
-
-
-\---
+- How do astronomers estimate star temperatures from spectra?
 
 
 
-\# Questions I Answered
+## Black Holes
+
+- What is the Schwarzschild radius physically telling us?
+
+- What is an event horizon in simple terms?
+
+- How close can stable orbits exist near a black hole?
+
+
+
+---
+
+
+
+# Questions I Answered
 
 Move questions here once you understand them.
 
 
 
-\- 
+- 
 
-\- 
+- 
 
-\- 
+- 
 
