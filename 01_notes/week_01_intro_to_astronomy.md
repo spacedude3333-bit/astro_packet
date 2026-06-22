@@ -1,66 +1,66 @@
-\# Week 1 Notes — Intro to Astronomy + Solar System + Gravity
+# Week 1 Notes — Intro to Astronomy + Solar System + Gravity
 
 
 
-\## Main Questions for This Week
+## Main Questions for This Week
 
-\- What is astronomy vs astrophysics?
+- What is astronomy vs astrophysics?
 
-\- How is the solar system organized?
+- How is the solar system organized?
 
-\- What causes planets to orbit?
+- What causes planets to orbit?
 
-\- What is the difference between mass and weight?
+- What is the difference between mass and weight?
 
-\- How does gravity weaken with distance?
-
-
-
-\---
+- How does gravity weaken with distance?
 
 
 
-\# 1. Astronomy vs Astrophysics
+---
 
 
 
-\## Astronomy
+# 1. Astronomy vs Astrophysics
+
+
+
+## Astronomy
 
 Astronomy is the study of celestial objects and phenomena:
 
-\- planets
+- planets
 
-\- moons
+- moons
 
-\- stars
+- stars
 
-\- galaxies
+- galaxies
 
-\- black holes
+- black holes
 
-\- nebulae
+- nebulae
 
-\- the universe as a whole
+- the universe as a whole
 
 
 
-\## Astrophysics
+## Astrophysics
 
 Astrophysics uses physics and math to explain how those objects work:
 
-\- why planets orbit
+- why planets orbit
 
-\- how stars shine
+- how stars shine
 
-\- how galaxies move
+- how galaxies move
 
-\- what black holes are
+- what black holes are
 
-\- how light tells us about distant objects
+- how light tells us about distant objects
 
 
 
-\### My summary
+### My summary
 
 Astronomy = what’s out there  
 
@@ -68,73 +68,73 @@ Astrophysics = how/why it works
 
 
 
-\---
+---
 
 
 
-\# 2. Structure of the Solar System
+# 2. Structure of the Solar System
 
 Main components:
 
-\- Sun
+- Sun
 
-\- rocky inner planets
+- rocky inner planets
 
-\- asteroid belt
+- asteroid belt
 
-\- gas/ice giants
+- gas/ice giants
 
-\- dwarf planets
+- dwarf planets
 
-\- comets
+- comets
 
-\- moons
+- moons
 
-\- smaller bodies
-
-
-
-\## Inner planets
-
-\- Mercury
-
-\- Venus
-
-\- Earth
-
-\- Mars
+- smaller bodies
 
 
 
-\## Outer planets
+## Inner planets
 
-\- Jupiter
+- Mercury
 
-\- Saturn
+- Venus
 
-\- Uranus
+- Earth
 
-\- Neptune
-
-
-
-\### Questions
-
-\- Why are the inner planets rocky while outer planets are giant planets?
-
-\- How did the solar system form in this structure?
+- Mars
 
 
 
-\---
+## Outer planets
+
+- Jupiter
+
+- Saturn
+
+- Uranus
+
+- Neptune
 
 
 
-\# 3. Gravity Basics
+### Questions
+
+- Why are the inner planets rocky while outer planets are giant planets?
+
+- How did the solar system form in this structure?
 
 
 
-\## Newton’s Law of Gravitation
+---
+
+
+
+# 3. Gravity Basics
+
+
+
+## Newton’s Law of Gravitation
 
 Formula:
 
@@ -144,27 +144,27 @@ F = G(m1m2 / r^2)
 
 where:
 
-\- F = gravitational force
+- F = gravitational force
 
-\- G = gravitational constant
+- G = gravitational constant
 
-\- m1, m2 = masses of two objects
+- m1, m2 = masses of two objects
 
-\- r = distance between centers of the objects
-
-
-
-\## Important ideas
-
-\- more mass → stronger gravitational force
-
-\- more distance → weaker force
-
-\- gravity follows an inverse-square law
+- r = distance between centers of the objects
 
 
 
-\### What inverse-square means
+## Important ideas
+
+- more mass → stronger gravitational force
+
+- more distance → weaker force
+
+- gravity follows an inverse-square law
+
+
+
+### What inverse-square means
 
 If distance doubles, force becomes 1/4 as strong.
 
@@ -172,19 +172,19 @@ If distance triples, force becomes 1/9 as strong.
 
 
 
-\---
+---
 
 
 
-\# 4. Orbit Basics
+# 4. Orbit Basics
 
 
 
 An orbit happens because an object has:
 
-\- forward motion
+- forward motion
 
-\- gravity pulling it inward
+- gravity pulling it inward
 
 
 
@@ -192,73 +192,73 @@ So instead of falling straight down, it continuously “falls around” the obje
 
 
 
-\## Key idea
+## Key idea
 
 Orbit = balance between inertia/forward motion and gravitational pull
 
 
 
-\---
+---
 
 
 
-\# 5. Vocabulary
+# 5. Vocabulary
 
-\- orbit
+- orbit
 
-\- gravity
+- gravity
 
-\- mass
+- mass
 
-\- weight
+- weight
 
-\- inverse-square law
+- inverse-square law
 
-\- celestial object
+- celestial object
 
-\- asteroid
+- asteroid
 
-\- dwarf planet
-
-
-
-\---
+- dwarf planet
 
 
 
-\# 6. Things I Still Need to Understand
-
-\- How exactly elliptical orbits work
-
-\- Why orbital speed changes along an orbit
-
-\- Difference between force, energy, and acceleration in orbital motion
+---
 
 
 
-\---
+# 6. Things I Still Need to Understand
+
+- How exactly elliptical orbits work
+
+- Why orbital speed changes along an orbit
+
+- Difference between force, energy, and acceleration in orbital motion
 
 
 
-\# 7. Practice / Reflection
+---
+
+
+
+# 7. Practice / Reflection
 
 What I learned best this week:
 
-\- 
+- 
 
 
 
 What still feels confusing:
 
-\- 
+- 
 
 
 
 What I want to study next:
 
-\- Kepler’s laws
+- Kepler’s laws
 
-\- circular motion
+- circular motion
 
-\- escape velocity
+- escape velocity
 
