@@ -1,118 +1,118 @@
-\# Week 1 Log
+# Week 1 Log
 
-\## Dates:
+## Dates:
 
-\[fill in]
+[fill in]
 
 
 
-\---
+---
 
 
 
-\# 1. What I Studied
+# 1. What I Studied
 
-\- Intro to astronomy vs astrophysics
+- Intro to astronomy vs astrophysics
 
-\- Solar system structure
+- Solar system structure
 
-\- Newtonian gravity basics
+- Newtonian gravity basics
 
-\- Intro orbit concepts
+- Intro orbit concepts
 
 
 
-\# 2. Main Concepts Learned
+# 2. Main Concepts Learned
 
-\- Gravity depends on mass and distance
+- Gravity depends on mass and distance
 
-\- Orbits happen because of forward motion + gravity
+- Orbits happen because of forward motion + gravity
 
-\- Astronomy and astrophysics overlap but are not identical
+- Astronomy and astrophysics overlap but are not identical
 
 
 
-\# 3. What I Built / Practiced
+# 3. What I Built / Practiced
 
-\- Set up astro\_packet folder
+- Set up astro_packet folder
 
-\- Started formula sheet
+- Started formula sheet
 
-\- Began Week 1 notes
+- Began Week 1 notes
 
-\- Planned orbit simulator project
+- Planned orbit simulator project
 
 
 
-\# 4. Problems I Solved
+# 4. Problems I Solved
 
-\- Practice inverse-square law examples
+- Practice inverse-square law examples
 
-\- Unit review / algebra review if needed
+- Unit review / algebra review if needed
 
 
 
-\# 5. What Confused Me
+# 5. What Confused Me
 
-\- Why elliptical orbits speed up and slow down
+- Why elliptical orbits speed up and slow down
 
-\- How orbital speed is calculated
+- How orbital speed is calculated
 
-\- How escape velocity is derived
+- How escape velocity is derived
 
 
 
-\# 6. What I Need to Review
+# 6. What I Need to Review
 
-\- Rearranging formulas
+- Rearranging formulas
 
-\- Circular motion basics
+- Circular motion basics
 
-\- Relationship between force and acceleration
+- Relationship between force and acceleration
 
 
 
-\# 7. Best Thing I Learned This Week
+# 7. Best Thing I Learned This Week
 
-\- 
+- 
 
 
 
-\# 8. Project Progress
+# 8. Project Progress
 
-\## Orbit project
+## Orbit project
 
-\- Created folder and README
+- Created folder and README
 
-\- Need to write project goal and first coding task
+- Need to write project goal and first coding task
 
 
 
-\## Blackbody / stars project
+## Blackbody / stars project
 
-\- Not started yet
+- Not started yet
 
 
 
-\## Black hole / advanced topic project
+## Black hole / advanced topic project
 
-\- Not started yet
+- Not started yet
 
 
 
-\# 9. Next Week Plan
+# 9. Next Week Plan
 
-\- Learn Kepler’s laws
+- Learn Kepler’s laws
 
-\- Add more formulas to formula sheet
+- Add more formulas to formula sheet
 
-\- Start first orbit simulator code
+- Start first orbit simulator code
 
-\- Write clearer notes on orbital motion
+- Write clearer notes on orbital motion
 
 
 
-\# 10. Effort / Focus Check
+# 10. Effort / Focus Check
 
 Hours studied:
 
