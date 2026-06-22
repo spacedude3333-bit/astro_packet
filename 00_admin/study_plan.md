@@ -1,192 +1,192 @@
-\# Astronomy / Astrophysics Self-Study Plan
+# Astronomy / Astrophysics Self-Study Plan
 
 
 
-\## Main Goal
+## Main Goal
 
 Build a strong foundation in astronomy + astrophysics while producing projects I can show in a portfolio, on GitHub, or in applications.
 
 
 
-\## Core Outcomes
+## Core Outcomes
 
 By the end of this study period, I want to be able to:
 
-\- Explain major astronomy and astrophysics concepts clearly
+- Explain major astronomy and astrophysics concepts clearly
 
-\- Use math and coding to model simple astrophysical systems
+- Use math and coding to model simple astrophysical systems
 
-\- Read introductory astronomy resources without getting lost
+- Read introductory astronomy resources without getting lost
 
-\- Build at least 2–3 substantial projects
+- Build at least 2–3 substantial projects
 
-\- Write short research/project summaries
-
-
-
-\---
+- Write short research/project summaries
 
 
 
-\# Phase Overview
+---
 
 
 
-\## Phase 1 — Foundations
+# Phase Overview
+
+
+
+## Phase 1 — Foundations
 
 Focus:
 
-\- Solar system structure
+- Solar system structure
 
-\- Kepler’s laws
+- Kepler’s laws
 
-\- Newtonian gravity
+- Newtonian gravity
 
-\- Orbits
+- Orbits
 
-\- Light, spectra, telescopes
+- Light, spectra, telescopes
 
-\- Basic stellar properties
+- Basic stellar properties
 
 
 
 Deliverables:
 
-\- Week 1–4 notes
+- Week 1–4 notes
 
-\- Orbit simulator project started
+- Orbit simulator project started
 
-\- Formula sheet started
+- Formula sheet started
 
 
 
-\## Phase 2 — Stellar / Radiation / Data
+## Phase 2 — Stellar / Radiation / Data
 
 Focus:
 
-\- Blackbody radiation
+- Blackbody radiation
 
-\- Wien’s law
+- Wien’s law
 
-\- Stefan–Boltzmann law
+- Stefan–Boltzmann law
 
-\- HR diagram basics
+- HR diagram basics
 
-\- Exoplanets and observational astronomy
+- Exoplanets and observational astronomy
 
-\- Simple data analysis
+- Simple data analysis
 
 
 
 Deliverables:
 
-\- Blackbody project
+- Blackbody project
 
-\- Data graphs
+- Data graphs
 
-\- Short writeup on star temperature/luminosity
+- Short writeup on star temperature/luminosity
 
 
 
-\## Phase 3 — Compact Objects / Advanced Topics
+## Phase 3 — Compact Objects / Advanced Topics
 
 Focus:
 
-\- Black holes basics
+- Black holes basics
 
-\- Schwarzschild radius
+- Schwarzschild radius
 
-\- Escape velocity
+- Escape velocity
 
-\- Gravitational lensing overview
+- Gravitational lensing overview
 
-\- Research-style project writeup
+- Research-style project writeup
 
 
 
 Deliverables:
 
-\- Black hole project
+- Black hole project
 
-\- Final project summaries
+- Final project summaries
 
-\- Portfolio material draft
-
-
-
-\---
+- Portfolio material draft
 
 
 
-\# Weekly Structure
+---
+
+
+
+# Weekly Structure
 
 For each week:
 
-1\. Learn concepts
+1. Learn concepts
 
-2\. Take notes
+2. Take notes
 
-3\. Solve/practice
+3. Solve/practice
 
-4\. Build or improve a project
+4. Build or improve a project
 
-5\. Write a weekly log
+5. Write a weekly log
 
-6\. Add important formulas to the formula sheet
-
-
-
-\---
+6. Add important formulas to the formula sheet
 
 
 
-\# Current Priority
-
-\- \[ ] Finish Week 1 notes
-
-\- \[ ] Set up orbit simulator project folder
-
-\- \[ ] Add first formulas to formulas\_sheet.md
-
-\- \[ ] Fill in resource\_list.md
-
-\- \[ ] Complete week\_01\_log.md
+---
 
 
 
-\---
+# Current Priority
+
+- [ ] Finish Week 1 notes
+
+- [ ] Set up orbit simulator project folder
+
+- [ ] Add first formulas to formulas_sheet.md
+
+- [ ] Fill in resource_list.md
+
+- [ ] Complete week_01_log.md
 
 
 
-\# Deliverables Tracker
-
-\- \[ ] Orbit simulator
-
-\- \[ ] Blackbody / stellar radiation project
-
-\- \[ ] Black hole / compact object project
-
-\- \[ ] Mini-project collection
-
-\- \[ ] Portfolio README / summaries
+---
 
 
 
-\---
+# Deliverables Tracker
+
+- [ ] Orbit simulator
+
+- [ ] Blackbody / stellar radiation project
+
+- [ ] Black hole / compact object project
+
+- [ ] Mini-project collection
+
+- [ ] Portfolio README / summaries
 
 
 
-\# Notes to Future Me
+---
+
+
+
+# Notes to Future Me
 
 Use this folder like a lab notebook, not like a school assignment folder.
 
 The goal is to track:
 
-\- what I learned
+- what I learned
 
-\- what I built
+- what I built
 
-\- what I still don’t understand
+- what I still don’t understand
 
-\- how my skills improve over time
+- how my skills improve over time
 
