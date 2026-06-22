@@ -1,148 +1,148 @@
-\# Progress Tracker
+# Progress Tracker
 
 
 
-\## Weeks
+## Weeks
 
-\- \[ ] Week 1 completed
+- [ ] Week 1 completed
 
-\- \[ ] Week 2 completed
+- [ ] Week 2 completed
 
-\- \[ ] Week 3 completed
+- [ ] Week 3 completed
 
-\- \[ ] Week 4 completed
+- [ ] Week 4 completed
 
-\- \[ ] Week 5 completed
+- [ ] Week 5 completed
 
-\- \[ ] Week 6 completed
+- [ ] Week 6 completed
 
-\- \[ ] Week 7 completed
+- [ ] Week 7 completed
 
-\- \[ ] Week 8 completed
+- [ ] Week 8 completed
 
-\- \[ ] Week 9 completed
+- [ ] Week 9 completed
 
-\- \[ ] Week 10 completed
+- [ ] Week 10 completed
 
-\- \[ ] Week 11 completed
+- [ ] Week 11 completed
 
-\- \[ ] Week 12 completed
+- [ ] Week 12 completed
 
 
 
-\---
+---
 
 
 
-\# Topic Progress
+# Topic Progress
 
 
 
-\## Foundations
+## Foundations
 
-\- \[ ] Solar system overview
+- [ ] Solar system overview
 
-\- \[ ] Kepler’s laws
+- [ ] Kepler’s laws
 
-\- \[ ] Newton’s law of gravitation
+- [ ] Newton’s law of gravitation
 
-\- \[ ] Circular motion
+- [ ] Circular motion
 
-\- \[ ] Escape velocity
+- [ ] Escape velocity
 
-\- \[ ] Energy in orbits
+- [ ] Energy in orbits
 
 
 
-\## Light / Observation
+## Light / Observation
 
-\- \[ ] Electromagnetic spectrum
+- [ ] Electromagnetic spectrum
 
-\- \[ ] Spectroscopy basics
+- [ ] Spectroscopy basics
 
-\- \[ ] Telescopes
+- [ ] Telescopes
 
-\- \[ ] Magnitude / brightness basics
+- [ ] Magnitude / brightness basics
 
 
 
-\## Stars
+## Stars
 
-\- \[ ] Stellar temperature
+- [ ] Stellar temperature
 
-\- \[ ] Luminosity
+- [ ] Luminosity
 
-\- \[ ] Radius relationships
+- [ ] Radius relationships
 
-\- \[ ] Blackbody radiation
+- [ ] Blackbody radiation
 
-\- \[ ] HR diagram basics
+- [ ] HR diagram basics
 
 
 
-\## Advanced Topics
+## Advanced Topics
 
-\- \[ ] White dwarfs / neutron stars overview
+- [ ] White dwarfs / neutron stars overview
 
-\- \[ ] Black holes basics
+- [ ] Black holes basics
 
-\- \[ ] Schwarzschild radius
+- [ ] Schwarzschild radius
 
-\- \[ ] Gravitational lensing intro
+- [ ] Gravitational lensing intro
 
 
 
-\---
+---
 
 
 
-\# Project Progress
+# Project Progress
 
 
 
-\## Orbit Simulator
+## Orbit Simulator
 
-\- \[ ] Project idea defined
+- [ ] Project idea defined
 
-\- \[ ] Physics equations written down
+- [ ] Physics equations written down
 
-\- \[ ] First code version made
+- [ ] First code version made
 
-\- \[ ] First graph/output generated
+- [ ] First graph/output generated
 
-\- \[ ] README written
+- [ ] README written
 
-\- \[ ] Improved / polished
+- [ ] Improved / polished
 
 
 
-\## Blackbody Project
+## Blackbody Project
 
-\- \[ ] Goal defined
+- [ ] Goal defined
 
-\- \[ ] Equations collected
+- [ ] Equations collected
 
-\- \[ ] First code version made
+- [ ] First code version made
 
-\- \[ ] Plot generated
+- [ ] Plot generated
 
-\- \[ ] README written
+- [ ] README written
 
-\- \[ ] Improved / polished
+- [ ] Improved / polished
 
 
 
-\## Black Hole Project
+## Black Hole Project
 
-\- \[ ] Goal defined
+- [ ] Goal defined
 
-\- \[ ] Background notes written
+- [ ] Background notes written
 
-\- \[ ] First calculations / model made
+- [ ] First calculations / model made
 
-\- \[ ] Visuals or graphs created
+- [ ] Visuals or graphs created
 
-\- \[ ] README written
+- [ ] README written
 
-\- \[ ] Improved / polished
+- [ ] Improved / polished
 
