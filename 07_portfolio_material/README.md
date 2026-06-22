@@ -1,4 +1,4 @@
-\# Portfolio Material
+# Portfolio Material
 
 
 
@@ -6,28 +6,28 @@ This folder stores the polished versions of my best work.
 
 
 
-\## What goes here
+## What goes here
 
-\- project summaries
+- project summaries
 
-\- cleaned graphs
+- cleaned graphs
 
-\- best code snippets
+- best code snippets
 
-\- polished README drafts
+- polished README drafts
 
-\- application-friendly descriptions of what I built
+- application-friendly descriptions of what I built
 
 
 
-\## Goal
+## Goal
 
 Turn raw learning into things I can actually show:
 
-\- GitHub repos
+- GitHub repos
 
-\- research supplements
+- research supplements
 
-\- college application activity descriptions
+- college application activity descriptions
 
-\- essays / project writeups
+- essays / project writeups
