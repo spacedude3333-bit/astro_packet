@@ -1,4 +1,4 @@
-\# Figures Folder
+# Figures Folder
 
 
 
@@ -6,31 +6,31 @@ Store plots, diagrams, screenshots, and visuals here.
 
 
 
-\## Examples
+## Examples
 
-\- orbit plots
+- orbit plots
 
-\- blackbody graphs
+- blackbody graphs
 
-\- star comparison charts
+- star comparison charts
 
-\- diagrams for project writeups
+- diagrams for project writeups
 
-\- screenshots of simulations
+- screenshots of simulations
 
 
 
-\## Suggested naming
+## Suggested naming
 
-project\_topic\_version.png
+project_topic_version.png
 
 
 
 Examples:
 
-orbit\_simulator\_v1.png
+orbit_simulator_v1.png
 
-blackbody\_curve\_5800K.png
+blackbody_curve_5800K.png
 
-escape\_velocity\_graph\_v2.png
+escape_velocity_graph_v2.png
 
