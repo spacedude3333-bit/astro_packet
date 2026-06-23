@@ -20,6 +20,8 @@
 
 - Intro orbit concepts
 
+- Vectors and Scalars
+
 
 
 # 2. Main Concepts Learned
